@@ -3,9 +3,7 @@ Sou Estudante de Engenharia de Software, atualmente trabalho com Analista da Qua
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-jerold/)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJerold&layout=compact)](https://github.com/MarlonJerold/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJerold&hide=javascript,html)](https://github.com/MarlonJerold/github-readme-stats)
 ### Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
