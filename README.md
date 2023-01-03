@@ -17,4 +17,4 @@ Sou Estudante de Engenharia de Software, atualmente trabalho com Analista da Qua
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MarlonJerold&theme=github-dark&hide_border=true&area=true)
+
