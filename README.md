@@ -1,11 +1,6 @@
 ## Olá! Eu sou o Marlon Jerold [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-jerold/)
 Sou Estudante de Engenharia de Software, atualmente trabalho com Analista da Qualidade. Gosto de resolvelver problemas com programação e espero que goste dos projetos que estou desenvolvendo. ;) 
 
-
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJerold&hide=javascript,html)](https://github.com/MarlonJerold/github-readme-stats)
-### Tecnologias que uso no meu dia
-
 <div style="display: inline_block"><br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
