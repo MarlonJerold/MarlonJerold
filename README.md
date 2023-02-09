@@ -3,8 +3,8 @@
 Desenvolvedor Java <br>
 Analista da qualidade no [ FitBank 450 ](https://fitbank.com.br/) <br>
 
-####  Encontre-me no LinkedIn 
+####  Encontre-me no [ LinkedIn ](linkedin.com/in/marlon-jerold) <br>
 
-[ LinkedIn ](linkedin.com/in/marlon-jerold) <br>
+
 
 
