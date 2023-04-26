@@ -5,7 +5,4 @@ Analista da qualidade no [ FitBank 450 ](https://fitbank.com.br/) <br>
 
 ####  Encontre-me no [ LinkedIn ](linkedin.com/in/marlon-jerold) <br>
 
-* Java, C#
-* SpringBoot, .Net 
-* Angular
-* Docker
+* Java, Springboot, Docker, Postgresql, SQLServer.
