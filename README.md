@@ -1,6 +1,6 @@
 ###  Oi, eu sou o Marlon Jerold! 
 
-Desenvolvedor <br>
+Desenvolvedor, Programador, Engenheiro de software, me chamem do que quiser, gosto de constuir sistemas, sendo mais específico com Java <br>
 
 ####  Encontre-me no [ LinkedIn ](linkedin.com/in/marlon-jerold) <br>
 
