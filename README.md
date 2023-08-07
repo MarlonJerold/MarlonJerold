@@ -7,3 +7,5 @@ Aqui você poderá me acompanhar em meus projetos pessoais que estão em andamen
 ####  Encontre-me no [ LinkedIn ](linkedin.com/in/marlon-jerold) <br>
 
 * Java, Springboot, Docker, Postgresql, SQLServer.
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonJerold&layout=compact&theme=dracula)
