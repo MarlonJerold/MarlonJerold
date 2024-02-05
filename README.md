@@ -7,7 +7,7 @@ Minha experiência começou sendo QA em uma Fintech, e em seguinda sendo Desenvo
 
 ### Stacks
 
-Desenvolvimento backend: Java(7, 17), WebServices, SpringBoot, WebFlux, APIs Reativas, Arquitetura Monotilitica e conhecimento de Arquitetura MicroServices.<br><br>
+Desenvolvimento backend: Java(7, 17), WebServices, SpringBoot, WebFlux, APIs Reativas, Arquitetura Monotilitica, Design Patterns e conhecimento de Arquitetura MicroServices.<br><br>
 Desenvolvimento Web: JavaServerFaces, Flutter.<br>
 Dados: PostgreSQL, Oracle Data Base, MySQL, SQL Server.
 
