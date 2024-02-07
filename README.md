@@ -21,7 +21,7 @@ Dados: PostgreSQL, Oracle Data Base, MySQL, SQL Server.
 
 Cofundador da comunidade Bichinhos da TI, comunidade que tem como objetivo a oportunidade para iniciantes na área com auxílio de pessoas mais experiênte de forma voluntária, juntamente com criação de projetos OpenSource
 <br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bichinhos-da-t)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bichinhos-da-ti)
 
 Gosto de Patos.
 
