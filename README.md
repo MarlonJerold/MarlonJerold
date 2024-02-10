@@ -17,12 +17,13 @@ Dados: PostgreSQL, Oracle Data Base, MySQL, SQL Server.
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/marlonjerold)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-jerold/)
 
-### Community Bichinhos da TI
+#### Community Bichinhos da TI
 
 Cofundador da comunidade Bichinhos da TI, comunidade que tem como objetivo a oportunidade para iniciantes na área com auxílio de pessoas mais experiênte de forma voluntária, juntamente com criação de projetos OpenSource
 <br>
 
-[Github Bichinhos da TI](https://github.com/Bichinhos-da-TI-Community)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bichinhos-da-TI-Community)
+
 
 Gosto de Patos.
 
