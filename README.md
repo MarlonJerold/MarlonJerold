@@ -19,7 +19,7 @@ Dados: PostgreSQL, Oracle Data Base, MySQL, SQL Server.
 
 #### Community Bichinhos da TI
 
-Cofundador da comunidade Bichinhos da TI, comunidade que tem como objetivo a oportunidade para iniciantes na área com auxílio de pessoas mais experiênte de forma voluntária, juntamente com criação de projetos OpenSource
+Líder de Governança
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bichinhos-da-TI-Community)
