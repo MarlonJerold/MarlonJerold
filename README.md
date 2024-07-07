@@ -1,10 +1,4 @@
-Engenheiro de sofware com foco em desenvolvimento backend, utilizando Java como ferramenta principal.
-
-Conhecimento e experiência utilizando Javascript, C# .NET, NodeJS, Koa, focando no backend. 
-
-Passei por empresas no setor de finanças, trabalhando com metodologias ágeis.
-
-Venho aprimorando minhas habilidades em arquitetura de software, aplicação de padrões de projetos, utilizando princípios SOLIDs. Gosto de compartilhar conhecimentos e penso em criar patinhos.
+Engenheiro de software com foco em desenvolvimento backend, utilizando Java como ferramenta principal. Possui conhecimentos em Javascript, C# .NET, NodeJS e Koa, com experiência significativa em empresas do setor financeiro, onde aplicou metodologias ágeis. Venho me aprofundando em arquitetura de software, aplicação de padrões de projetos e princípios SOLID, e gosta de compartilhar conhecimentos,
 
 Agende um horário <br>
 email: jeroldmarlon5@gmail.com <br>
