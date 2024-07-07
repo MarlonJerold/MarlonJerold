@@ -1,6 +1,6 @@
 Engenheiro de sofware com foco em desenvolvimento backend, utilizando Java como ferramenta principal.
 
-Conhecimento e experiência utilizando Javascript, C# .NET, NodeJS, Koa, focando no backend. Estou em contante aprendizado sobre as boas práticas no desenvolvimento de software.
+Conhecimento e experiência utilizando Javascript, C# .NET, NodeJS, Koa, focando no backend. 
 
 Passei por empresas no setor de finanças, trabalhando com metodologias ágeis.
 
