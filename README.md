@@ -1,6 +1,6 @@
 ## Olá, prazer! Me chamo Marlon :)
 
-Sou um engenheiro de software com foco em desenvolvimento backend, utilizando Java e C# como minhas principais ferramentas.
+Sou um engenheiro de software com foco em desenvolvimento backend, utilizando Java e C# como ferramentas principais.
 
 #### Sobre mim
 - 🌱 Sempre aprendendo: Estou constantemente explorando novas formas de resolver problemas e aprimorando minhas habilidades.
