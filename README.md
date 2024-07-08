@@ -11,7 +11,7 @@ Sou um engenheiro de software com foco em desenvolvimento backend, utilizando Ja
 Ferramentas e Tecnologias
 - Linguagens: Java, C#
 - Frameworks: Spring, .NET
-- Ferramentas: Docker, PostgreSQL, Hibernate
+- Ferramentas: Docker, SQL/NoSQL, AWS.
 - Técnicas: SOLID, Desing Parttens e BDD
 
 Entre em Contato!
