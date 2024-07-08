@@ -5,7 +5,7 @@ Sou um engenheiro de software com foco em desenvolvimento backend, utilizando Ja
 #### Sobre mim
 - 🌱 Sempre aprendendo: Estou constantemente explorando novas formas de resolver problemas e aprimorando minhas habilidades.
 - 🏛️ Arquitetura de Software: Estou me aprofundando em arquitetura de software, aplicação de padrões de projetos e princípios SOLID.
-- 📚 Compartilhando Conhecimento: Gosto de compartilhar o que aprendo e contribuir para a comunidade de desenvolvedores.
+- 📚 Compartilhando Conhecimento: Gosto de compartilhar conhecimento e contribuir de alguma forma com a comunidade de desenvolvedores.
 - 🖥️ Backend e Mais: Embora meu foco seja backend, tenho facilidade para trabalhar em outros contextos, como desenvolvimento mobile.
 
 #### Ferramentas e Tecnologias
