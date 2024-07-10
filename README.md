@@ -2,11 +2,6 @@
 
 Sou um engenheiro de software com foco em desenvolvimento backend, utilizando Java e C# como ferramentas principais.
 
-#### Sobre mim
-- 🌱 Sempre aprendendo: Estou constantemente explorando novas formas de resolver problemas e aprimorando minhas habilidades.
-- 🏛️ Arquitetura de Software: Estou me aprofundando em arquitetura de software, aplicação de padrões de projetos e princípios SOLID.
-- 🖥️ Backend e Mais: Embora meu foco seja backend, consigo trabalhar em outros contextos, como desenvolvimento mobile.
-
 #### Ferramentas e Tecnologias
 - Linguagens: Java, C#
 - Frameworks: Spring, .NET
