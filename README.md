@@ -1,6 +1,6 @@
-#### Oi, prazer! Me chamo Marlon
+#### Oi
 
-Sou desenvolvedor de software que utiliza Java como ferramenta principal.
+Sou desenvolvedor de software
 
 Aqui você verá, projetos inacabados, códigos esquisitos e um pouco de meu processo.
 
