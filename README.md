@@ -2,6 +2,7 @@
 
 Sou desenvolvedor de software
 
-Aqui você verá, projetos inacabados, códigos esquisitos e um pouco de meu processo.
+Aqui você encontrará projetos inacabados, códigos peculiares e um pouco do meu processo.
+
 
 
