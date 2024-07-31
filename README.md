@@ -1,5 +1,4 @@
-#### Oi! Sou desenvolvedor de software.
-
+#### Oi! 
 Aqui você encontrará projetos inacabados, códigos peculiares e um pouco de pensamentos.
 
 
