@@ -1,14 +1,15 @@
 #### Oi! 
 
-Sou um programador com experiência em **sistemas financeiros**, <br>
-amante de orientação a objeto e entusiasta de programação<br>
-funcional. Já atuei em sistemas que utilizam microservices <br>
+Sou um programador com experiência <br>em 
+**sistemas financeiros**, amante de<br>
+orientação a objeto e entusiasta de <br>
+programação funcional.Já atuei em <br>
+sistemas que utilizam microservices <br> 
 e em sistemas legados.
 
-**Java** e C# se torna minhas ferramentas principais.
+**Java** e C# se torna minhas <br>
+principais ferramentas.
 
-Dedico algumas horas semanais para compartilhar conhecimento<br>
-no que se diz respeito ao Java.
 
 
 
