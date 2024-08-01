@@ -7,9 +7,11 @@ programação funcional. Já atuei em <br>
 sistemas que utilizam microservices <br> 
 e em sistemas legados.
 
-**Java** e C# se torna minhas
-principais ferramentas.
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,aws,postgres" />
+  </a>
+</p>
 
 
 
