@@ -1,6 +1,4 @@
-## Olá, I'm Marlon
-
-Desenvolvedor de software, com ênfase em tecnologias Java, amante de animes, vôlei e RPG.
+## HI, I'm Marlon
 
 - [Blog](https://patinho.tech)
 - [Me](https://marlonjerold.me)
