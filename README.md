@@ -1,4 +1,4 @@
-## HI, I'm Marlon
+## Hi, I'm Marlon
 
 - [Blog](https://patinho.tech)
 - [Me](https://marlonjerold.me)
