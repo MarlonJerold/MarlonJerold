@@ -1,6 +1,6 @@
 ## Oi
 
-Me chamo **Marlon Jerold**
+Me chamo **Marlon**
 
 Sou programador de software, com experiência em desenvolvimento em **Java** e foco no paradigma **orientado a objetos**. Ultimamente, tenho explorado o paradigma **funcional**, ampliando minha perspectiva de programação. 
 
