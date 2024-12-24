@@ -14,7 +14,7 @@ Bacharelado, Engenharia de Software - UFC, Trancado.<br>
 
 ## Hobbies
 - Jogador amador de RPG
-- Músico não profissional(violão, guitarra e contrabaixo)
+- Músico não profissional (violão, guitarra e contrabaixo)
 - Curto fazer drinks e curtir uma brisa na praia
 
 ## Contribuições Open Source
