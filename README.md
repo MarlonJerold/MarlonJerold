@@ -7,6 +7,7 @@ Sou um profissional apaixonado por tecnologia, atualmente estagiando como DevSec
 **Localização**: Fortaleza - CE  
 **Curso**: Engenharia de Software - UNINTER  
 **Blog**: [blog.marlonjerold.com](https://blog.marlonjerold.com) <br>
+**Experiência**: FITBANK, RV2 MEIOS DE PAGAMENTOS, COMPASS UOL
 **Stack**: Java - AWS - Docker - Kubernetes - Javascript - PostgreSQL - MongoDB - Linux
 
 ## Hobbies
