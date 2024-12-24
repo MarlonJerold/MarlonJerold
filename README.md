@@ -14,7 +14,7 @@ Sou um profissional apaixonado por tecnologia e pelo que podemos fazer com ela. 
 - Apaixonado por fazer drinks e curtir uma brisa na praia
 
 ## Contribuições Open Source
-Contribuí para a criação do [Milho News](link-do-projeto). Milho News é o seu site diário de notícias e atualizações do mundo do desenvolvimento de software. Aqui, você encontra os posts mais relevantes do Bluesky, com tudo que envolve TI: novidades, tendências e discussões que agitam a comunidade tech.. Se quiser saber mais, acesse meu repositório no GitHub!
+Contribuí para a criação do [Milho News](link-do-projeto). Milho News é o seu site diário de notícias e atualizações do mundo do desenvolvimento de software. Aqui, você encontra os posts mais relevantes do Bluesky. Se quiser saber mais, acesse meu repositório no GitHub!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-jerold/)
