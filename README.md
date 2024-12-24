@@ -1,7 +1,7 @@
 # Oi, sou o Marlon Jerold 🦆
 
 ## Sobre Mim
-Sou um profissional apaixonado por tecnologia e pelo que podemos fazer com ela. Desde 2019, estou em busca de aprimorar minhas habilidades. Já trabalhei como Analista de Qualidade de Software, garantindo a qualidade de transações bancárias, e também com Desenvolvimento utilizando Java. Atualmente, estou estagiando como DevSecOps na Compass UOL e aprendendo inglês.
+Sou um profissional apaixonado por tecnologia, atualmente estagiando como DevSecOps na Compass UOL. 
 
 **Idade**: 23  
 **Localização**: Fortaleza - CE  
