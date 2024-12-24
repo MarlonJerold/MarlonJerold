@@ -6,7 +6,7 @@ Sou um profissional apaixonado por tecnologia e pelo que podemos fazer com ela. 
 **Idade**: 23  
 **Localização**: Fortaleza - CE  
 **Curso**: Engenharia de Software - UNINTER  
-**Blog**: [blog.marlonjerold.com](https://blog.marlonjerold.com)
+**Blog**: [blog.marlonjerold.com](https://blog.marlonjerold.com) <br>
 **Stack**: Java - AWS - Docker - Kubernetes - Javascript - PostgreSQL - MongoDB - Linux
 
 ## Hobbies
