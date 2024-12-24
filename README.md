@@ -5,7 +5,8 @@ Sou um profissional apaionado por tecnologia (as vezes), atualmente estagiando c
 
 **Idade**: 23  
 **Localização**: Fortaleza - CE  
-**Curso**: Bacharelado, Engenharia de Software - UNINTER, Cursando <br> 
+**Educação**: <br> 
+Bacharelado, Engenharia de Software - UNINTER, Cursando <br> 
 Bacharelado, Engenharia de Software - UFC, Trancado.<br>
 **Blog**: [blog.marlonjerold.com](https://blog.marlonjerold.com) <br>
 **Experiência**: FITBANK, RV2 MEIOS DE PAGAMENTOS, COMPASS UOL <br>
