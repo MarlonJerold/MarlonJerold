@@ -1,6 +1,5 @@
 # Oi, sou o Marlon
 
-## Sobre Mim
 Sou um profissional apaionado por tecnologia (as vezes), atualmente estagiando como DevSecOps na Compass UOL. 
 
 **Idade**: 23  
