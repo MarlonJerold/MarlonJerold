@@ -1,7 +1,7 @@
 # Oi, sou o Marlon Jerold 🦆
 
 ## Sobre Mim
-Sou um profissional apaixonado por tecnologia, atualmente estagiando como DevSecOps na Compass UOL. 
+Sou um profissional apaionado por tecnologia (as vezes), atualmente estagiando como DevSecOps na Compass UOL. 
 
 **Idade**: 23  
 **Localização**: Fortaleza - CE  
@@ -12,8 +12,8 @@ Sou um profissional apaixonado por tecnologia, atualmente estagiando como DevSec
 
 ## Hobbies
 - Jogador amador de RPG
-- Músico (violão, guitarra e contrabaixo)
-- Gosto de fazer drinks e curtir uma brisa na praia
+- Músico não profissional(violão, guitarra e contrabaixo)
+- Curto fazer drinks e curtir uma brisa na praia
 
 ## Contribuições Open Source
 Contribuí para a criação do [Milho News](link-do-projeto). Milho News é o seu site diário de notícias e atualizações do mundo do desenvolvimento de software. Aqui, você encontra os posts mais relevantes do Bluesky. Se quiser saber mais, acesse meu repositório no GitHub!
