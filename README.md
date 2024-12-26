@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a61601c0-a3cf-48d6-b662-df88de27f6a6" alt="Imagem" />
+</p>
+
 # Oi, sou o Marlon
 
 Sou um profissional apaixonado por tecnologia (as vezes), atualmente estagiando como DevSecOps na Compass UOL. 
@@ -27,7 +31,6 @@ Contribuí para a criação do [Milho News](link-do-projeto). Milho News é o se
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.marlonjerold.com)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/patinhotech.bsky.social)
 
-Sou um Beserk no tempo livre
 
 
 
