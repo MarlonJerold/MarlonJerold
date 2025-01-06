@@ -29,10 +29,4 @@ Contribuí para a criação do [Milho News](link-do-projeto). Milho News é o se
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/patinhotech.bsky.social)
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/afbba1a2-93d8-42f5-9082-439089451ec8" alt="Imagem" height="400" />
-</p>
-
-
-
 
