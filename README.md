@@ -4,7 +4,6 @@
 Sou um profissional apaixonado por tecnologia (as vezes), atualmente estagiando como DevSecOps na Compass UOL. 
 
 **Idade**: 23  
-**Localização**: Fortaleza - CE  
 **Educação**: <br> 
 Bacharelado, Engenharia de Software - UNINTER, Cursando <br> 
 Bacharelado, Engenharia de Software - UFC, Trancado.<br>
