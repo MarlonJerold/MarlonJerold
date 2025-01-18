@@ -1,16 +1,5 @@
 # Oi, sou o Marlon
 
-
-Sou um profissional apaixonado por tecnologia (as vezes), atualmente estagiando como DevSecOps na Compass UOL. 
-
-**Idade**: 23  
-**Educação**: <br> 
-Bacharelado, Engenharia de Software - UNINTER, Cursando <br> 
-Bacharelado, Engenharia de Software - UFC, Trancado.<br>
-**Blog**: [blog.marlonjerold.com](https://blog.marlonjerold.com) <br>
-**Experiência**: FITBANK, RV2 MEIOS DE PAGAMENTOS, COMPASS UOL <br>
-**Stack**: Java - AWS - Docker - Kubernetes - Javascript - PostgreSQL - MongoDB - Linux
-
 ## Hobbies
 - Jogador amador de RPG
 - Músico não profissional (violão, guitarra e contrabaixo)
