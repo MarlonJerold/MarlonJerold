@@ -6,7 +6,6 @@
 Bacharelado, Engenharia de Software - UNINTER, Cursando <br> 
 Bacharelado, Engenharia de Software - UFC, Trancado.<br>
 **Blog**: [blog.marlonjerold.com](https://marlonjerold.com) <br>
-**Experiência**: FITBANK, RV2 MEIOS DE PAGAMENTOS, COMPASS UOL <br>
 **Stack**: Java - AWS - Docker - Kubernetes - Javascript - PostgreSQL - MongoDB - Linux
 
 ## Hobbies
