@@ -1,5 +1,7 @@
 # Oi, sou o Marlon
 
+Atualmente estagiário de DevSecOps na @CompassUOL
+
 **Idade**: 23  
 **Localização**: Fortaleza - CE  
 **Educação**: <br> 
